@@ -1,7 +1,8 @@
 
 mAP计算过程
 
-开源项目来源ｇｉｔｈｕｂ地址：https://github.com/Cartucho/mAP,已经稍作修改
+开源项目来源ｇｉｔｈｕｂ地址：https://github.com/Cartucho/mAP
+已经稍作修改
 
 step 1:
 
