@@ -1,0 +1,19 @@
+<annotation>
+  <folder>voc_boxes</folder>
+  <filename>2_2655.jpg</filename>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>110625</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>237</xmin>
+      <ymin>57</ymin>
+      <xmax>567</xmax>
+      <ymax>393</ymax>
+    </bndbox>
+  </object>
+</annotation>

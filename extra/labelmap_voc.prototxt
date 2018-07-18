@@ -1,0 +1,108 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+
+item {
+  name: "110619"
+  label: 1
+  display_name: "MaiDong"
+}
+item {
+  name: "110620"
+  label: 2
+  display_name: "AnMuXi"
+}
+item {
+  name: "110621"
+  label: 3
+  display_name: "ASaMu"
+}
+item {
+  name: "110622"
+  label: 4
+  display_name: "QiXi"
+}
+item {
+  name: "110625"
+  label: 5
+  display_name: "GuangMing"
+}
+item {
+  name: "110630"
+  label: 6
+  display_name: "HuangGuanQuQi"
+}
+item {
+  name: "110631"
+  label: 7
+  display_name: "KangShiFuDanGao"
+}
+item {
+  name: "110632"
+  label: 8
+  display_name: "KouShuiWaQuQi"
+}
+item {
+  name: "110659"
+  label: 9
+  display_name: "BaiCaoWeiNiuRou"
+}
+item {
+  name: "112607"
+  label: 10
+  display_name: "ZJYWanZi"
+}
+item {
+  name: "112608"
+  label: 11
+  display_name: "TaiYangGuoBa"
+}
+item {
+  name: "112616"
+  label: 12
+  display_name: "TongYiLaMian"
+}
+
+item {
+  name: "112617"
+  label: 13
+  display_name: "MianHuaTang"
+}
+item {
+  name: "112622"
+  label: 14
+  display_name: "LaoTan"
+}
+item {
+  name: "112623"
+  label: 15
+  display_name: "HongNiu"
+}
+item {
+  name: "112624"
+  label: 16
+  display_name: "MingZhiBingGan"
+}
+item {
+  name: "112670"
+  label: 17
+  display_name: "WangWang"
+}
+item {
+  name: "112675"
+  label: 18
+  display_name: "LvLinNiuNai"
+}
+item {
+  name: "112678"
+  label: 19
+  display_name: "FaLiZi"
+}
+item {
+  name: "192"
+  label:20
+  display_name: "Hand"
+}
+
