@@ -17,9 +17,10 @@ step 2:数据准备
    <class_name> <left> <top> <right> <bottom>
 
   
-   mAP/extra/下有写好的数据格式转换脚本,如xml文件转换成需要的txt文件，调用get_displayname（）可切换<class_name>为ｄｉsplayname.
+   mAP/extra/下有写好的数据格式转换脚本,如xml文件转换成需要的txt文件，调用get_displayname（）可切换<class_name>为ｄｉsplay_name.
    
    第一步：将要转换的xml文件保存到mAP/ground-truth/
+   
    第二步：python convert_gt_xml.py
   
   
@@ -41,6 +42,6 @@ step 3 :
    
    python main.py
     
-   注：predicted/　与　ｇｒound-truth/中ｔｘｔ文件数目需保持一致
+   注：predicted/　与　ｇｒound-truth/  中ｔｘｔ文件数目需保持一致
     
     
