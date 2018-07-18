@@ -1,11 +1,11 @@
 
 mAP计算过程
 
-开源项目来源ｇｉｔｈｕｂ地址：https://github.com/Cartucho/mAP
+开源项目来源ｇｉｔｈｕｂ地址：https://github.com/Cartucho/mAP,已经稍作修改
 
 step 1:
 
-git clone https://github.com/Cartucho/mAP
+git clone https://github.com/chunxia1210/mAP_mobilenet
 
 
 step 2:数据准备
